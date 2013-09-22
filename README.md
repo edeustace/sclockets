@@ -2,6 +2,8 @@
 
 A scala asset pipeline manager base on [sprockets](https://github.com/sstephenson/sprockets).
 
+### Version: Not ready for use.
+
 ## Usage
 
 You'll need to load and configure the `Sclockets.Environment` in your application. Depending on what framework you use this is done differently...
